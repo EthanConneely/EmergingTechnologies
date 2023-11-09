@@ -6,7 +6,7 @@
         {
             "label": "export to html",
             "type": "shell",
-            "command": "python -m jupyter nbconvert --to html ./project.ipynb --output ./index.html",
+            "command": "jupyter-nbconvert.exe --to html ./project.ipynb --output ./index.html",
             "problemMatcher": []
         }
     ]
