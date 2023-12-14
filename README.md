@@ -15,7 +15,7 @@ Install `matplotlib` and `qiskit`
 
 or
 
-Install `Anaconda`
+Install [Anaconda](https://www.anaconda.com/download/)
 
 Clone down the repo
 
