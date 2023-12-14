@@ -1,8 +1,9 @@
 {
     "cSpell.words": [
-        "Matplotlib",
-        "Qiskit",
         "deutsch",
+        "Matplotlib",
+        "numpy",
+        "Qiskit",
         "qubit",
         "qubits",
         "visualising"
